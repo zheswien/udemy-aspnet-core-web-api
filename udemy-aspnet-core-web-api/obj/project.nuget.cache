@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "A22hlF94N2218/+oO1WEmy8nnBml7LvzKPUGygrOv81jLCxLJaHdI4/JOdcbOE8nl46u58/qfKrEv+qq464r4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zhe_swien_law\\source\\repos\\udemy-aspnet-core-web-api\\udemy-aspnet-core-web-api\\udemy-aspnet-core-web-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhe_swien_law\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zhe_swien_law\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zhe_swien_law\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\zhe_swien_law\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\zhe_swien_law\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\zhe_swien_law\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
